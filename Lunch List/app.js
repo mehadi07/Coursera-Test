@@ -26,15 +26,5 @@
         }
     }
 
-    /*function LunchListSeprator(lunchListToSeprate){
-        var sepratedLunchList = lunchListToSeprate.split(',');
-
-        if(sepratedLunchList.length <= 3){
-            $scope.result = "Enjoy!";
-        }
-        else{
-            $scope.result = "Too much!";
-        }
-        return $scope.result;
-    }*/
+   
 })();
